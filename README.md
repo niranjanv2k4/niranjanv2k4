@@ -1,6 +1,5 @@
 ## 👋 Hi there, I’m NIRANJAN  
 # 💫 About Me:<br>
-👨‍💻 Hi, I’m NIRANJAN<br>
 🏫 Currently pursuing my B.Tech at <b>NIT Calicut</b><br>
 ⚡ Passionate about <b>Machine Learning</b>, <b>Computer Networks</b>, and all things tech<br>
 💡 Always exploring, learning, and building cool stuff<br>
